@@ -1,0 +1,16 @@
+DodgePong
+---------
+
+Author: Arnau Sanchez <tokland@gmail.com>
+
+Dodge balls on different boards. A simple retro-game.
+
+To run DodgePong you will need:
+
+- python (>=2.3) (www.python.org)
+- pygame (www.pygame.org)
+- python-visual (www.vpython.org)
+
+And optionally:
+
+- python-psyco
