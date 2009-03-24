@@ -1,7 +1,5 @@
-dodgeball (0.1.3prealpha)
+balldodge (0.0.1) unstable; urgency=low
 
- * Balls and polygonal figures
- * Ball to ball rebound
- * Ball to figure rebound
+  * Initial release.
 
--- Arnau Sanchez <tokland@gmail.com>
+ -- Arnau Sanchez <pyarnau@gmail.com>  Tue, 24 Mar 2009 22:36:28 +0100
